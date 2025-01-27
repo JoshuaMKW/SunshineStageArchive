@@ -2,16 +2,12 @@
   "author": [ "Epic", "JoshuaMK" ],
   "name": "Mario's Dream",
   "description": "A perilous yet charming journey through a world inspired by Mario Kart Arcade GP 2.",
-
   "stagename": "marioDream",
   "versions": [
     {
       "1.1": "_v1_1"
     }
   ],
-
   "icon": "icon.png",
-
-  //A YT link if available
   "preview":  ""
 }
