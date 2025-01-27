@@ -1,0 +1,17 @@
+{
+  "author": [ "Epic", "JoshuaMK" ],
+  "name": "Comp S1 (MasterMario777)",
+  "description": "",
+
+  "stagename": "compS1MasterMario777",
+  "versions": [
+    {
+      "1.0": "_v1_0"
+    }
+  ],
+
+  "icon": "icon.png",
+
+  //A YT link if available
+  "preview":  ""
+}
